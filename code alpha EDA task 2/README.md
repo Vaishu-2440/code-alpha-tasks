@@ -5,9 +5,7 @@ Exploratory Data Analysis (EDA) ***
 
 A data analytics project focused on performing Exploratory Data Analysis (EDA) using Python and Jupyter Notebook.  
 This project demonstrates data understanding, statistical analysis, and visualization on a large sales dataset.
-
 ---
-
 ## 📋 Table of Contents
 Project Overview  
 Dataset Description  
@@ -111,7 +109,6 @@ Correlation Heatmap
 This heatmap visualizes correlations between numerical variables and highlights strong relationships.
 
 ![Correlation Heatmap] <img width="1319" height="595" alt="Screenshot (377)(2)" src="https://github.com/user-attachments/assets/ec11d738-156d-47fd-b8ac-f1818a83fd1f" />
-
 ---
 
 ## 🔍 Key Insights
@@ -129,7 +126,7 @@ This heatmap visualizes correlations between numerical variables and highlights 
 Prerequisites:
 - Python 3.x
 - Jupyter Notebook
-
+- 
 Steps:
 
 1. Install required libraries:
@@ -141,7 +138,6 @@ Steps:
 3. Navigate to the `Task_2_EDA` folder
 
 4. Open `task2_eda.ipynb` and run all cells
-
 ---
 
 ## 📝 Notes
@@ -150,14 +146,12 @@ Steps:
 - No machine learning models are implemented
 - The dataset is synthetically generated for learning purposes
 - This project is intended for internship evaluation and educational use
-
 ---
 
 ## 👨‍💻 Author
 
 Sri Vaishnavi V  
 CodeAlpha Data Analytics Internship  
-
 ---
 
 ## 📄 License
