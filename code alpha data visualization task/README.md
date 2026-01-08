@@ -131,12 +131,17 @@ A positive correlation exists — higher sales lead to higher profit.
 ### 📌 Screenshots are generated automatically after running the script.
 
 📈 Sales Trend
+<img width="907" height="513" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/f01c84bf-b655-48ec-b1b5-123e4e493b05" />
 
 📊 Profit Comparison
+<img width="1028" height="541" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/1b141adb-b74d-4952-bc1d-3c3e692c057c" />
 
 📉 Sales Distribution
+<img width="1112" height="503" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/b8cb83d6-7ccd-4114-899f-4af820465665" />
 
 🔗 Sales vs Profit
+<img width="909" height="528" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/e53a6ad6-d373-4697-abbc-c5a0eab2358f" />
+
 
 ## ✅ Conclusion
 This project successfully demonstrates how data visualization techniques can be used to convert raw data into meaningful insights. Using Python libraries such as Pandas, Matplotlib, and Seaborn, various charts were created to analyze trends, distributions, and relationships. This task highlights the importance of visual analytics in data-driven decision-making.
