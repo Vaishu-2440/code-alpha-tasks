@@ -155,7 +155,7 @@ Steps:
 
 ## 👨‍💻 Author
 
-Sri Vaishnavi V  
+Sri Vaishnavi Vedantam 
 CodeAlpha Data Analytics Internship  
 
 ---
