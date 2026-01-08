@@ -86,7 +86,7 @@ These insights help understand customer satisfaction and product performance.
 
 Shows the first few rows of the dataset loaded successfully.
 
-📍 *File:* `screenshots/dataset_preview.png`
+📍 *File:* `<img width="1920" height="1080" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/90034c0b-704a-4f5f-b137-8eb6f432bff1" />`
 
 ---
 
@@ -94,7 +94,7 @@ Shows the first few rows of the dataset loaded successfully.
 
 Displays customer reviews along with their predicted sentiment.
 
-📍 *File:* `screenshots/sentiment_output.png`
+📍 *File:* `<img width="1298" height="360" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/1c53b2cc-92a9-435e-83d5-03fbbeb7287f" />`
 
 ---
 
