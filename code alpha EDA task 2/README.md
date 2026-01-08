@@ -1,14 +1,14 @@
-CodeAlpha-Task2-EDA README.md
+# CodeAlpha-Task2-EDA README.md
 
-CodeAlpha Data Analytics Internship – Task 2  
-Exploratory Data Analysis (EDA)
+*** CodeAlpha Data Analytics Internship – Task 2  
+Exploratory Data Analysis (EDA) ***
 
 A data analytics project focused on performing Exploratory Data Analysis (EDA) using Python and Jupyter Notebook.  
 This project demonstrates data understanding, statistical analysis, and visualization on a large sales dataset.
 
 ---
 
-📋 Table of Contents
+## 📋 Table of Contents
 Project Overview  
 Dataset Description  
 Objectives  
@@ -23,14 +23,14 @@ Author
 
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is completed as part of the **CodeAlpha Data Analytics Internship (Task 2)**.  
 The objective of this task is to perform **Exploratory Data Analysis (EDA)** to understand the dataset’s structure, identify patterns, detect anomalies, and explore relationships between variables before further analysis.
 
 ---
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 Dataset Name: `large_sales_dataset.csv`  
 Number of Records: 5,000  
@@ -49,7 +49,7 @@ Dataset Columns:
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Understand the size and structure of the dataset
 - Identify numerical and categorical variables
@@ -61,7 +61,7 @@ Dataset Columns:
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python  
 Jupyter Notebook  
@@ -71,7 +71,7 @@ Seaborn – Statistical visualization
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 CodeAlpha_Data_Analytics/
 ├── Task_2_EDA/
@@ -84,7 +84,7 @@ CodeAlpha_Data_Analytics/
 
 ---
 
-📊 EDA Workflow
+## 📊 EDA Workflow
 
 The following steps were performed during Exploratory Data Analysis:
 
@@ -98,7 +98,7 @@ The following steps were performed during Exploratory Data Analysis:
 
 ---
 
-📈 Visualizations
+## 📈 Visualizations
 
 Distribution of Numerical Features  
 This plot shows the distribution of numerical variables such as age, price, quantity, discount, and total amount.
@@ -114,7 +114,7 @@ This heatmap visualizes correlations between numerical variables and highlights 
 
 ---
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 - Quantity and Price strongly influence the TotalAmount
 - Discounts reduce the final transaction value
@@ -124,7 +124,7 @@ This heatmap visualizes correlations between numerical variables and highlights 
 
 ---
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 Prerequisites:
 - Python 3.x
@@ -144,7 +144,7 @@ Steps:
 
 ---
 
-📝 Notes
+## 📝 Notes
 
 - This project focuses only on Exploratory Data Analysis
 - No machine learning models are implemented
@@ -153,14 +153,14 @@ Steps:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Sri Vaishnavi V  
 CodeAlpha Data Analytics Internship  
 
 ---
 
-📄 License
+## 📄 License
 
 This project is created for educational and internship evaluation purposes only.
 
