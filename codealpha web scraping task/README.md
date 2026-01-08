@@ -134,4 +134,9 @@ I can:
 - Write **main repository README**
 - Help with **LinkedIn post & video script**
 
-Just tell me 😊
+```
+---
+
+## 📄 License
+
+This project is created for educational and internship evaluation purposes only.
