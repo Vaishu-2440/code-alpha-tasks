@@ -103,14 +103,14 @@ The following steps were performed during Exploratory Data Analysis:
 Distribution of Numerical Features  
 This plot shows the distribution of numerical variables such as age, price, quantity, discount, and total amount.
 
-![Histogram](<img width="1314" height="827" alt="Screenshot (376)" src="https://github.com/user-attachments/assets/3cb620df-809c-4f9a-a02c-4d172ec84ab7" />)
-(<img width="1319" height="268" alt="Screenshot (377)(1)" src="https://github.com/user-attachments/assets/16ae63ab-e067-4e3c-8535-33a036ef0f40" />)
+![Histogram] <img width="1314" height="827" alt="Screenshot (376)" src="https://github.com/user-attachments/assets/3cb620df-809c-4f9a-a02c-4d172ec84ab7" />
+<img width="1319" height="268" alt="Screenshot (377)(1)" src="https://github.com/user-attachments/assets/16ae63ab-e067-4e3c-8535-33a036ef0f40" />)
 
 
 Correlation Heatmap  
 This heatmap visualizes correlations between numerical variables and highlights strong relationships.
 
-![Correlation Heatmap](<img width="1319" height="595" alt="Screenshot (377)(2)" src="https://github.com/user-attachments/assets/ec11d738-156d-47fd-b8ac-f1818a83fd1f" />)
+![Correlation Heatmap] <img width="1319" height="595" alt="Screenshot (377)(2)" src="https://github.com/user-attachments/assets/ec11d738-156d-47fd-b8ac-f1818a83fd1f" />
 
 ---
 
